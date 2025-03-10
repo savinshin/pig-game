@@ -2,6 +2,7 @@
   "name": "pig-game",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://github.com/savinshin/pig-game",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,6 +12,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
-    "vite": "^5.1.4"
+    "vite": "^5.4.14"
   }
 }
