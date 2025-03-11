@@ -1,17 +1,4 @@
 # proyecto-pig-game
-ENLACE
-
-
-
-
-
-COMMITS
-![image](https://github.com/user-attachments/assets/e91d9895-ca1f-40e8-b341-1c7124a50715)
-
-
-
-
-
 
 - Fork del repositorio
 - git clone para tenerlo en local
